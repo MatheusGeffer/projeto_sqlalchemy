@@ -39,8 +39,8 @@ O intuito é práticar as diversas tecnologias existentes junto ao Python.
 
 ## Referências e Documentações utilizadas
 
-Documentação SQLAlchemy - https://www.sqlalchemy.org/
-SQLAlchemy Engine - https://docs.sqlalchemy.org/en/14/core/engines.html
-SQLAlchemy Connection Pooling - https://docs.sqlalchemy.org/en/14/core/pooling.html
-Documentação SQLAlchemy Relacionamentos - https://docs.sqlalchemy.org/en/14/orm/basic_relationships.html
-Alembic documentação - https://alembic.sqlalchemy.org/en/latest/tutorial.html
+- Documentação SQLAlchemy - https://www.sqlalchemy.org/
+- SQLAlchemy Engine - https://docs.sqlalchemy.org/en/14/core/engines.html
+- SQLAlchemy Connection Pooling - https://docs.sqlalchemy.org/en/14/core/pooling.html
+- Documentação SQLAlchemy Relacionamentos - https://docs.sqlalchemy.org/en/14/orm/basic_relationships.html
+- Alembic documentação - https://alembic.sqlalchemy.org/en/latest/tutorial.html
